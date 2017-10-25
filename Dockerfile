@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER cjonesy
+MAINTAINER elios
 
 # ------------------------------------------------------------------------------
 # Update the image and prepare for Vertica install
